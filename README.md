@@ -37,7 +37,7 @@
 <div align='center'>
   <a href="https://github.com/mmpacker/github-readme-stats">
     <img height=175 src="https://github-readme-stats.vercel.app/api?username=mmpacker&theme=dark&show_icons=true" />
-  </a>
+  </a>&nbsp&nbsp
   <a href="https://github.com/mmpacker/github-readme-stats">
     <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmpacker&theme=dark" />
   </a>
