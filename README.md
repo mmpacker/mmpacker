@@ -50,5 +50,5 @@
 <div>
   <span>&nbsp&nbsp&nbsp📧&nbsp&nbsp&nbsp<strong>Email me</strong> at: <strong><em><a href='mailto: mmpackerdev@gmail.com'>mmpackerdev@gmail.com</a></em></strong></span><br>
   <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspor</span><br>
-  <span>&nbsp&nbsp&nbsp🔗&nbsp&nbsp&nbsp<strong>Find me</strong> on <strong><em><a href='https://www.linkedin.com/in/mmpacker/'>LinkedIn</a></em></strong></span>
+  <span>&nbsp&nbsp&nbsp🔗&nbsp&nbsp&nbsp<strong>Connect with me</strong> on <strong><em><a href='https://www.linkedin.com/in/mmpacker/'>LinkedIn</a></em></strong></span>
 </div>
