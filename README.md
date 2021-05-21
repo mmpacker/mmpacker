@@ -2,7 +2,7 @@
 <h3 align='center'>Welcome to my GitHub Profile</h3>
 <hr/>
 
-<h4 align='center'>🧑‍💻&nbsp&nbspSoftware Engineer | Problem Solver | Experienced Marketer&nbsp&nbsp🧑‍💻</h4>
+<h3 align='center'>🧑‍💻&nbsp&nbspSoftware Engineer | Problem Solver | Experienced Marketer&nbsp&nbsp🧑‍💻</h3>
 
 <div align='center'>
   <img src='https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif'>
@@ -12,9 +12,10 @@
 
 <h6>Let's Connect!</h6>
 <div>
-  <a href='https://www.linkedin.com/in/mmpacker/'><img src='https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white'/></a>&nbsp&nbsp
-  <a href='https://github.com/mmpacker'><img src='https://img.shields.io/github/followers/mmpacker?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square'/></a>&nbsp&nbsp
-  <a href='mailto: mmpackerdev@gmail.com'><img src='https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white'/></a>
+  <a href='https://www.linkedin.com/in/mmpacker/'><img src='https://img.shields.io/badge/-LinkedIn-0077B5?style=soc&logo=LinkedIn&logoColor=white'/></a>&nbsp&nbsp
+  <a href='https://twitter.com/mmpackerdev'><img src='https://img.shields.io/twitter/url?label=Twitter&url=https%3A%2F%2Ftwitter.com%2Fmmpackerdev'/></a>&nbsp&nbsp
+  <a href='mailto: mmpackerdev@gmail.com'><img src='https://img.shields.io/badge/-Gmail-D14836?style=soc&logo=Gmail&logoColor=white'/></a>&nbsp&nbsp
+  <a href='https://github.com/mmpacker'><img src='https://img.shields.io/github/followers/mmpacker?label=GitHub&style=social'/></a>&nbsp&nbsp
 </div>
 
 <hr/>
