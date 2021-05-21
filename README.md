@@ -1,16 +1,53 @@
-### Hi there 👋
+<h1 align='center'>Hi!&nbsp&nbsp👋 I'm Matt Packer</h1>
+<h3 align='center'>Welcome to my GitHub Profile</h3>
+<hr/>
 
-<!--
-**mmpacker/mmpacker** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h4 align='center'>🧑‍💻&nbsp&nbspSoftware Engineer | Problem Solver | Experienced Marketer&nbsp&nbsp🧑‍💻</h4>
 
-Here are some ideas to get you started:
+<div align='center'>
+  <img src='https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif'>
+</div><br>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>I’m a software engineer with extensive previous marketing experience, which gives me a unique end user perspective on development projects. With an analytical mindset, I am driven by curiosity and enjoy drilling down to the core of a problem to provide creative solutions. My goal is to build websites, applications, and automations that drive efficiencies, and help businesses maximize engagement and revenue.</p>
+
+<h6>Let's Connect!</h6>
+<div>
+  <a href='https://www.linkedin.com/in/mmpacker/'><img src='https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white'/></a>&nbsp&nbsp
+  <a href='https://github.com/mmpacker'><img src='https://img.shields.io/github/followers/mmpacker?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square'/></a>&nbsp&nbsp
+  <a href='mailto: mmpackerdev@gmail.com'><img src='https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white'/></a>
+</div>
+
+<hr/>
+
+<h3 align='center'>My Top Skills:</h3>
+<div align='center'>
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png'/>&nbsp&nbsp
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/>&nbsp&nbsp
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/>&nbsp&nbsp
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/>&nbsp&nbsp
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png'/>&nbsp&nbsp
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png'/>&nbsp&nbsp
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/>&nbsp&nbsp
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/django/django.png'/>&nbsp&nbsp
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png'/>
+</div>
+
+<hr/>
+
+<div align='center'>
+  <a href="https://github.com/mmpacker/github-readme-stats">
+    <img height=175 src="https://github-readme-stats.vercel.app/api?username=mmpacker&theme=dark&show_icons=true" />
+  </a>
+  <a href="https://github.com/mmpacker/github-readme-stats">
+    <img height=175 src="https://github-readme-stats.vercel.app/api/top-langs/?username=mmpacker&theme=dark" />
+  </a>
+</div>
+
+<hr/>
+
+<h4>I'm currently open to new career opportunities and project collaborations!</h4>
+<div>
+  <span>&nbsp&nbsp&nbsp📧&nbsp&nbsp&nbsp<strong>Email me</strong> at: <strong><em><a href='mailto: mmpackerdev@gmail.com'>mmpackerdev@gmail.com</a></em></strong></span><br>
+  <span>&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbsp&nbspor</span><br>
+  <span>&nbsp&nbsp&nbsp🔗&nbsp&nbsp&nbsp<strong>Find me</strong> on <strong><em><a href='https://www.linkedin.com/in/mmpacker/'>LinkedIn</a></em></strong></span>
+</div>
