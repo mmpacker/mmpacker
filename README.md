@@ -2,13 +2,14 @@
 <h3 align='center'>Welcome to my GitHub Profile</h3>
 <hr/>
 
-<h3 align='center'>🧑‍💻&nbsp&nbspSoftware Engineer | Problem Solver | Experienced Marketer&nbsp&nbsp🧑‍💻</h3>
+<h3 align='center'>🧑‍💻&nbsp&nbspSoftware Engineer | Frontend Developer | MERN Stack | React.js&nbsp&nbsp🧑‍💻</h3>
 
 <div align='center'>
-  <img src='https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif'>
+  <img src='https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif' width=350>
 </div><br>
 
-<p>I’m a software engineer with extensive previous marketing experience, which gives me a unique end user perspective on development projects. With an analytical mindset, I am driven by curiosity and enjoy drilling down to the core of a problem to provide creative solutions. My goal is to build websites, applications, and automations that drive efficiencies, and help businesses maximize engagement and revenue.</p>
+<p>I’m a software engineer with a marketing background. My previous experience in marketing drives me to prioritize the end user experience when designing websites and applications. With an analytical mindset, I have a superior attention to detail, and I am driven by curiosity. I enjoy drilling down to the core of a problem to provide creative solutions. My goal is to build websites, applications, and automations that drive efficiencies, solve problems, and help businesses maximize engagement and revenue.</p>
+<p>I am currently targeting frontend developer and full stack engineer opportunities that use MERN stack technologies (MongoDB, Express.js, React.js, Node.js).</p>
 
 <h6>Let's Connect!</h6>
 <div>
@@ -26,6 +27,8 @@
   <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png'/>&nbsp&nbsp
   <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png'/>&nbsp&nbsp
   <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png'/>&nbsp&nbsp
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png'/>&nbsp&nbsp
+  <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/express/express.png'/>&nbsp&nbsp
   <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png'/>&nbsp&nbsp
   <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongoose/mongoose.png'/>&nbsp&nbsp
   <img width=45 src='https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png'/>&nbsp&nbsp
