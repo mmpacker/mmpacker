@@ -5,7 +5,7 @@
 <h3 align='center'>🧑‍💻&nbsp&nbspSoftware Engineer | Frontend Developer | MERN Stack | React.js&nbsp&nbsp🧑‍💻</h3>
 
 <div align='center'>
-  <img src='https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif' width=350>
+  <img src='https://www.aalpha.net/wp-content/uploads/2020/12/full-stack-development.gif' width=450>
 </div><br>
 
 <p>I’m a software engineer with a marketing background. My previous experience in marketing drives me to prioritize the end user experience when designing websites and applications. With an analytical mindset, I have a superior attention to detail, and I am driven by curiosity. I enjoy drilling down to the core of a problem to provide creative solutions. My goal is to build websites, applications, and automations that drive efficiencies, solve problems, and help businesses maximize engagement and revenue.</p>
